@@ -1,0 +1,4 @@
+FOR THIS  TO WORK WE NEED TO IMPORT FEW MODULES 
+import inquirer from "inquirer"; //  provides an easy way to capture user input in your Node. js command line interface applications. 
+import qr from "qr-image"; // TO GENERATE QR  CODE IMAGE
+import fs from "fs"; // This will synchronously load the file you've provided into a string, assuming your file is using UTF-8 encoding
